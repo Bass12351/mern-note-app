@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router";
 import api from "../lib/axios";
 import { ArrowLeftIcon, LoaderIcon, Trash2Icon } from "lucide-react";
