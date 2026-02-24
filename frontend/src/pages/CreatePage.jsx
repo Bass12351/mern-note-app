@@ -1,4 +1,3 @@
-import axios from "axios";
 import { ArrowLeftIcon } from "lucide-react";
 import React, { useState } from "react";
 import toast from "react-hot-toast";
